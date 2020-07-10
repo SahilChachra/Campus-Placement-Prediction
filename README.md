@@ -10,17 +10,10 @@
 ## :innocent: Motivation
 Campus Recruitment depends on various things. As documents go, there are certain criteria to be eligible for one! So this project helps visualize the data and the person can understand how each feature is correlated with one other be it marks or a degree! 
 
-
-## :warning: Tech/framework used
-
-- [Seaborn](https://seaborn.pydata.org/index.html)
-- [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-
-
 ## :star: Features
 Campus Recruitment Data Visualization is accurate and can be used with similar dataset with little modifications.
 
-##Following are some sample Plots
+## :Following are some sample Plots
 
 ![](https://github.com/SahilChachra/Campus-Placement-Prediction/blob/master/Screenshots/Degree%25vsIfPlaced.png)
 
